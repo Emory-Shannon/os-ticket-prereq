@@ -24,15 +24,23 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - PHP Manager
 - Heidi SQL
 
-<h2>Installation Steps</h2>
+<h2>Installation Steps</h2> 
+<p>
+<img src="osTicket-Enable ISS 1.PNG" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+</p>  
+<p>
+Picture 1 - Enabling Application Development Features and common HTTP Features.
+</p>  
+  <img src="osTicket-Enable ISS 2.PNG" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+  <p>
+Picture 2 - Enabling CGI. Enabling CGI is important because it allows for PHP to be exexuted on the web server.
+</p>
 
-<p>
-<img src="osTicket-Enable ISS 1.PNG" height="70%" width="70%" alt="Disk Sanitization Steps"/> <img src="osTicket-Enable ISS 2.PNG" height="70%" width="70%" alt="Disk Sanitization Steps"/> <img src="osTicket-ISS Confirm Enable.PNG" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+  <img src="osTicket-ISS Confirm Enable.PNG" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Picture - Using the port 127.0.0.1, you can test to see if ISS was enabled succesfully. 
 </p>
-<br />
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
