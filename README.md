@@ -25,6 +25,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Heidi SQL
 
 <h2>Installation Steps</h2> 
+**Installation steps for osTicket**  
 <p>
 <img src="osTicket-Enable ISS 1.PNG" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>  
