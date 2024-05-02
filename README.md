@@ -66,8 +66,7 @@ Picture 3 - Using the port 127.0.0.1, you can test to see if ISS was enabled suc
   <img src="osTicket-Installing osTicket.PNG" height="80%" width="80%" alt="Installing-osTicket"/>
 </p>
 <p>
- Picture 4 - After installing osTicket, extract and copy the "upload" folder into the path "c:\inetpub\wwwroot", then rename the "upload" file to "osTicket". Rename it exactly as this will be important.
-</p>
+ Picture 4 - After installing osTicket, extract and copy the "upload" folder into the path "c:\inetpub\wwwroot", then rename the "upload" file to "osTicket". Make sure to rename it exactly "osTicket" as this is important.
 <p>
   <img src="osTicket-Enable extentions.PNG" height="80%" width="80%" alt="Navigate *.80"/>
 </p>
@@ -94,12 +93,13 @@ Picture 3 - Using the port 127.0.0.1, you can test to see if ISS was enabled suc
 <p>
   Picture 8&9 - Navigate to C:\inetpub\wwwroot\osTicket\include\ost-congfig. Once you are there right-click the file and navigate to properties then security. Once your are there you are going to remove all permissions assigned. Then add a role for everyone, and give the role full access.
 <p>
-<b>Now that your permissions are good go back to where you found *.80. Then click the continue button.</b>
-</p>  
+<b>Now that your permissions are good go back to picture 5 and press "Browse *.80.</b>
+</p> 
+<h3><b>Installing and setting up HeidiSQL</b></h3>
   <p>
   <img src= "osTicket-Creating Database for osticket.PNG" height="80%" width="80%" alt="HeidiSQL Database Creation"/>
 </p> 
-<h3><b>Installing and setting up HeidiSQL</b></h3>
+
 <p>
   Picture - 1 After installing HeidiSQL, register a new database and name it "osTicket". This will be used when installing osTicket.
 </p>
@@ -112,6 +112,7 @@ Picture 3 - Using the port 127.0.0.1, you can test to see if ISS was enabled suc
 <p>
   <img src= "TS-Installed.PNG" height="80%" width="80%" alt="osTicket Installed"/>
 </p>
+<p>osTicket should now be installed.</p>
 
 
 
