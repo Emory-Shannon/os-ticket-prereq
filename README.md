@@ -27,7 +27,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2> 
 
-<h3><b>Enabling</b> ISS</h3>
+<h3><b>Enabling ISS</b></h3>
 
 <p>
 <img src="osTicket-Enable ISS 1.PNG" height="80%" width="80%" alt="Enabling ISS"/>
