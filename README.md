@@ -18,16 +18,16 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Enabling ISS
+- Enable ISS
 - Install Needed Resources
-- Enable Extensions 
-- Create HeidiSQL Database
-- Item 5
+- Enable Extensions
+- PHP Manager
+- Heidi SQL
 
 <h2>Installation Steps</h2>
 
 <p>
-<img src="osTicket-Enable ISS 1.PNG" height="70%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="osTicket-Enable ISS 1.PNG" height="70%" width="70%" alt="Disk Sanitization Steps"/> <img src="osTicket-Enable ISS 2.PNG" height="70%" width="70%" alt="Disk Sanitization Steps"/> <img src="osTicket-ISS Confirm Enable.PNG" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
