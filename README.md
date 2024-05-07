@@ -103,6 +103,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
 <img src="osTicket-ost-config-permission 1.PNG" height="80%" width="80%" alt="permissions 1"/>
+</p> 
+  <p>
 <img src="osTicket-ost-config-permission 2.PNG" height="80%" width="80%" alt="permissons 2"/>
 </p>
 
@@ -141,5 +143,5 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p><img src= "osTicket-Needed-files.PNG" height="80%" width="80%" alt="osTicket Installed"/></p>
 
-<p>&diams; Some of the files were not mentions but here is all the downloadable files used in this procces.</p>
+<p>&diams; Some of the files were not mentioned, but here is all the downloadable files used in this procces.</p>
 
